@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "8HNo7ib0Ez0wCnADEKfl40lcYmNU7lp22pQqEIfzfA0fssP2m6VD7IzXJmyiyCNHOwwxd7wfS+qsvpy5azxOOA==",
+  "dgSpecHash": "7XZBi2jqXt/Khxph5i2Pn6wXDiZH2doccimvQb1p0RWpMmRa7TszMIh5qVtFtF3TALt5OTdY781MW+xbD0diPg==",
   "success": true,
   "projectFilePath": "C:\\Users\\kdkel\\OneDrive\\Documents\\GitHub\\Lab09-LINQ-in-Manhattan\\Lab09\\Lab09.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\kdkel\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
